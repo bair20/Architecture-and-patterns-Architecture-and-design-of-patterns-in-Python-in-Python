@@ -1,1 +1,1 @@
-# Architecture-and-patterns-Architecture-and-design-of-patterns-in-Python-in-Python
+# Architecture-and-patterns-of-design-in-Python
